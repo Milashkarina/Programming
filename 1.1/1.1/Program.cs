@@ -1,12 +1,12 @@
 ﻿
 using System;
 
-namespace OuputUser
+namespace OutPut
 {
-    class Program
+    public class HelloWorld
     {
         //Проверка является ли число простым
-        static bool isPrime(int j)
+        static bool IsPrime(int j)
         {
             // Проверка делимости чисел от 2 до корня из j
             for (int i=2;i*i<=j;i++)
@@ -18,7 +18,7 @@ namespace OuputUser
            return true;
         }
 
-        static void Main(string[] args)
+            public static void Main(string[] args)
         {
             Console.Write("n=");
             int n;
@@ -29,7 +29,7 @@ namespace OuputUser
             for (int i = 2; i < n; i++)
             {
                 // Если число i простое, выводим его на экран
-                if (isPrime(i))
+                if (IsPrime(i))
                     Console.Write(" {0}", i);
 
             }
