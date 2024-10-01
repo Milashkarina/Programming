@@ -1,0 +1,14 @@
+D:\Мои работы\C#\3.3\3.3\bin\Debug\net8.0\3.3.exe
+D:\Мои работы\C#\3.3\3.3\bin\Debug\net8.0\3.3.deps.json
+D:\Мои работы\C#\3.3\3.3\bin\Debug\net8.0\3.3.runtimeconfig.json
+D:\Мои работы\C#\3.3\3.3\bin\Debug\net8.0\3.3.dll
+D:\Мои работы\C#\3.3\3.3\bin\Debug\net8.0\3.3.pdb
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.AssemblyInfoInputs.cache
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.AssemblyInfo.cs
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.csproj.CoreCompileInputs.cache
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.dll
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\refint\3.3.dll
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.pdb
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\3.3.genruntimeconfig.cache
+D:\Мои работы\C#\3.3\3.3\obj\Debug\net8.0\ref\3.3.dll
