@@ -3,17 +3,20 @@ class FactorialTer
 {
    static void Main(string[] args)
    {
+     double a;
+     double b;
+     double c;
      double x1;
      double x2;
      double D;
      double E=0.0001;
 
     Console.Write("Введите коэффициент a: ");
-    double a = Convert.ToSingle(Console.ReadLine());
+     a = Convert.ToSingle(Console.ReadLine());
     Console.Write("Введите коэффициент b: ");
-    double b = Convert.ToSingle(Console.ReadLine());
+     b = Convert.ToSingle(Console.ReadLine());
     Console.Write("Введите коэффициент c: ");
-    double c = Convert.ToSingle(Console.ReadLine());
+     c = Convert.ToSingle(Console.ReadLine());
 
     D = Math.Pow(b, 2) - 4 * a * c;
 
