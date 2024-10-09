@@ -12,11 +12,11 @@ class FactorialTer
      double D;
      double E=0.0001;
 
-    Console.Write("Введите коэффициент a (ввод без знака минуса): ");
+    Console.Write("Введите коэффициент a: ");
      a = Convert.ToSingle(Console.ReadLine());
-    Console.Write("Введите коэффициент b (ввод без знака минуса): ");
+    Console.Write("Введите коэффициент b: ");
      b = Convert.ToSingle(Console.ReadLine());
-    Console.Write("Введите коэффициент c (ввод без знака минуса): ");
+    Console.Write("Введите коэффициент c : ");
      c = Convert.ToSingle(Console.ReadLine());
 
     D = Math.Pow(b, 2) - 4 * a * c;
