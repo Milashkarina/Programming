@@ -1,0 +1,14 @@
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\bin\Debug\net8.0\КЗ_2.4.exe
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\bin\Debug\net8.0\КЗ_2.4.deps.json
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\bin\Debug\net8.0\КЗ_2.4.runtimeconfig.json
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\bin\Debug\net8.0\КЗ_2.4.dll
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\bin\Debug\net8.0\КЗ_2.4.pdb
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.AssemblyInfoInputs.cache
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.AssemblyInfo.cs
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.csproj.CoreCompileInputs.cache
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.dll
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\refint\КЗ_2.4.dll
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.pdb
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\КЗ_2.4.genruntimeconfig.cache
+D:\Мои работы\C#\КЗ_2.4\КЗ_2.4\obj\Debug\net8.0\ref\КЗ_2.4.dll
