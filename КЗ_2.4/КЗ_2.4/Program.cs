@@ -18,7 +18,7 @@ public class Program
        
         for (int i = 0; i < number.Length; i++)
         {
-            for (int j = 0; j < number.Length-1; j++)
+            for (int j = 0; j < number.Length-i-1; j++)
             {
                 if (number[j] > number[j+1])
                 { 
