@@ -1,16 +1,17 @@
 ﻿using System;
 
-namespace hometask_2_3
+namespace MyTask
 {
     class Program
     {
         private static int n;
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            int count = 0;
+           
             Console.Write($"Введите положительное значение n:");
             n = Convert.ToInt32(Console.ReadLine());
+            int count = 0;
             if (n > 0)
             {
                 do
