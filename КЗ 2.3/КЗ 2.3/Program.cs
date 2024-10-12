@@ -1,17 +1,16 @@
 ﻿using System;
 
-namespace Program
+namespace hometask_2_3
 {
-    class Hypothesis
+    class Program
     {
+        private static int n;
 
         static void Main(string[] args)
         {
-           
-            Console.Write($"Введите n:");
-            int n = Convert.ToInt32(Console.Read());
             int count = 0;
-
+            Console.Write($"Введите положительное значение n:");
+            n = Convert.ToInt32(Console.ReadLine());
             if (n > 0)
             {
                 do
@@ -27,13 +26,14 @@ namespace Program
                     count++;
                 }
                 while (n != 1);
+
                 Console.Write($"Количество замен, приводящих к 1:{count}");
             }
             else
             {
-                Console.Write("Либо Вы ввели 0,либо отрицательной число");
+                Console.Write("Веденное число либо 0,либо отрицательное!");
             }
-           
+                
         }
     }
 }
